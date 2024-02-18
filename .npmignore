@@ -1,0 +1,16 @@
+/__tests__
+/coverage
+/node_modukes
+/src
+/test
+.eslintrc.js
+.gitignore
+.npmignore
+index.ts
+jest.config.ts
+tsconfig.build.json
+tsconfig.json
+webpack.config.js
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
+PULL_REQUEST_TEMPLATE.md
